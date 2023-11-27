@@ -25,8 +25,7 @@ export default function about() {
                     Through my learning in computing, Ive also become experienced in Linux, and have been using it as my daily driver in combination with Windows. I have experience with various other operating systems, including MacOS, and many linux distros.
                     <br />
                     <br />
-                    From 2022-2023 ive been undertaking a VET course in Networking and Cyber Security, and have been learning various skills including networking, and security. All working towards a Certificate III in Networking and Cybersecurity.
-                    <br />
+                    Recently I have completed a Certificate III in Information Technology (Networking and Cybersecurity), and over the summer of 2023-2024 I am begining a Certificate IV in Information Technology and a Certificate IV in Cybersecurity.
                     With this experience in security, Ive come to a deep understanding on a low level of how computers work, and have been able to use this knowledge to my advantage in my development and in projects such as developing stealth virtual machines to bypass even the lowest level kernal based anti-cheats / anti-tamper such as EasyAntiCheat, BattleEye and Vangaurd.
                     <br />
                     This has also lead to developing a deep understanding of the WindowsAPI, and understanding Dynamic Link Libraries, how they work, and how to use them to my advantage through Process injection or Process Hyjacking.
