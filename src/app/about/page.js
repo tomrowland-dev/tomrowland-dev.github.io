@@ -13,7 +13,7 @@ export default function about() {
                     <br />
                     I started coding in 2018, and ever since ive been working within various computing spaces.
                     <br />
-                    Beginning with Python, Ive since become experienced in development with Javascript, and have worked with various frameworks and libraries, including React and NextJS (Just updated this site to use Next13, making use of the new App Router - routing is so much easier now!).
+                    Beginning with Python, Ive since become experienced in development with Javascript, and have worked with various frameworks and libraries, including React and NextJS (Just updated this site to use Next13, making use of the new App Router - routing is so much easier now!
                     <br />
                     Beyond web development, Ive also worked with various other languages, including C#, C++, GO, and Rust.
                     <br />
