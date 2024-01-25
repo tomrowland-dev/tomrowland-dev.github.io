@@ -8,7 +8,7 @@ export default function about() {
                     Hey, Im Tom.
                 </h1>
                 <p className='text-l my-2 max-sm:my-5 leading-loose'>
-                    Im a 17 y/o self tought developer from Melbourne, Australia.
+                    Im a 18 y/o self tought developer from Melbourne, Australia.
                     <br />
                     <br />
                     I started coding in 2018, and ever since ive been working within various computing spaces.
