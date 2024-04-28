@@ -27,6 +27,7 @@ export default function about() {
                     <br />
                     Recently I have completed a Certificate III in Information Technology (Networking and Cybersecurity), and over the summer of 2023-2024 I am began working towards a Certificate IV in Information Technology and a Certificate IV in Cybersecurity. In conjunction with this, I have also begun studying a Bachelor of Information Technology at Deakin University.
                     <br />
+                    <br />
                     With this experience in security, Ive come to a deep understanding on a low level of how computers work, and have been able to use this knowledge to my advantage in my development and in projects such as developing stealth virtual machines to bypass even the lowest level kernal based anti-cheats / anti-tamper such as EasyAntiCheat, BattleEye and Vangaurd.
                     <br />
                     This has also lead to developing a deep understanding of the WindowsAPI, and understanding Dynamic Link Libraries, how they work, and how to use them to my advantage through Process injection or Process Hyjacking.
