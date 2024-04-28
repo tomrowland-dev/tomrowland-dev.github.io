@@ -25,7 +25,7 @@ export default function about() {
                     Through my learning in computing, Ive also become experienced in Linux, and have been using it as my daily driver in combination with Windows. I have experience with various other operating systems, including MacOS, and many linux distros.
                     <br />
                     <br />
-                    Recently I have completed a Certificate III in Information Technology (Networking and Cybersecurity), and over the summer of 2023-2024 I am began working towards a Certificate IV in Information Technology and a Certificate IV in Cybersecurity. In conjunction with this, I have also begun studying a Bachelor of Information Technology at Deakin University.
+                    Recently I have completed a Certificate III in Information Technology (Networking and Cybersecurity), and over the summer of 2023-2024 I am began working towards a Certificate IV in Information Technology and a Certificate IV in Cybersecurity. In conjunction with this, I have also begun studying a Bachelor of Information Technology at Deakin University at the start of 2024.
                     <br />
                     <br />
                     With this experience in security, Ive come to a deep understanding on a low level of how computers work, and have been able to use this knowledge to my advantage in my development and in projects such as developing stealth virtual machines to bypass even the lowest level kernal based anti-cheats / anti-tamper such as EasyAntiCheat, BattleEye and Vangaurd.
